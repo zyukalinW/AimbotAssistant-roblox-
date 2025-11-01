@@ -1,0 +1,1 @@
+script - loadstring(game:HttpGet("https://raw.githubusercontent.com/zyukalinW/AimbotAssistant-roblox-/refs/heads/main/main.lua"))()
